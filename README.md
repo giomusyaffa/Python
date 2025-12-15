@@ -40,7 +40,7 @@ Key Analysis Performed
 - Analyzing overtime dependency across agencies
 - Exploring payroll trends over time
 
-Project Link: [🔗View Detailed Project Here](https://github.com/giomusyaffa/SQL/blob/main/readmesentiment.md)
+Project Link: [🔗View Detailed Project Here](https://github.com/giomusyaffa/Python/blob/main/NYCpayroll.md)
 
 Dataset Source: [🔗NYC Citywide Payroll Dataset(Kaggle)](https://www.kaggle.com/datasets/new-york-city/nyc-citywide-payroll-data?resource=download)
 
