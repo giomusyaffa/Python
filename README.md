@@ -27,7 +27,7 @@ This project mainly uses NumPy and pandas. Numpy is a numerical computing librar
 `python -m pip install pandas`
 
 ### Projects 📂
-1. NYC Citywide Payroll Data 💸
+#### 1. NYC Citywide Payroll Data 💸
 **Description**
 
 This project analyzes the NYC Citywide Payroll dataset to explore payroll distribution across agencies, job titles, and fiscal years. The dataset contains over 2 million records, making it suitable for practicing large-scale data cleaning and analysis using Python.
@@ -40,5 +40,7 @@ Key Analysis Performed
 - Analyzing overtime dependency across agencies
 - Exploring payroll trends over time
 
-Project Link:
+Project Link: [🔗View Detailed Project Here](https://github.com/giomusyaffa/SQL/blob/main/readmesentiment.md)
+
+Dataset Source: [🔗NYC Citywide Payroll Dataset(Kaggle)](https://www.kaggle.com/datasets/new-york-city/nyc-citywide-payroll-data?resource=download)
 
