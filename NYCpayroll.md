@@ -60,6 +60,7 @@ This explain how it's a string not a number.
 So what are we supposed to do?
 
 We clean and convert those column to turn this
+
 `$47166.03 -> object`
 
 to this
