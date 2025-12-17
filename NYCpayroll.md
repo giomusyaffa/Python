@@ -29,7 +29,7 @@ The dataset is loaded into a pandas DataFrame, which works like a table in SQL o
 
 - `low_memory=False` because the NYC Payroll dataset is very large (2+ million rows) so some columns contain mixed data types (numbers + text), using this reduces data type warnings and improves accuracy when loading large datasets.
 
-## Step 2: Explore and Clen the Data
+## Step 2: Explore and Clean the Data
 For starters, we use these three to see the data information overview:
 <img width="934" height="332" alt="image" src="https://github.com/user-attachments/assets/c3f58cb0-96c3-49e2-ad90-7948715fe203" />
 
