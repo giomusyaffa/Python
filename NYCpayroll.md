@@ -101,7 +101,6 @@ This tells us which agency pay the highest base salary on average, which is the 
 What it does:
 - Groups by job title
 - Finds which roles are paid the most
-- Very useful for career + compensation insights
 
 <img width="963" height="341" alt="image" src="https://github.com/user-attachments/assets/95b87e74-8f21-450e-9025-2f2741d016e2" />
 
@@ -137,7 +136,7 @@ This shows that the **BRONX DISTRICT ATTORNEY** receives most of their pay in OT
 
 What it shows:
 - How NYC payroll changes over time
-- Great for public finance analysis
+- Room for improvement for the next fiscal year
 
 <img width="537" height="776" alt="image" src="https://github.com/user-attachments/assets/d15dc622-797a-44b7-a022-98e385bfb315" />
 
