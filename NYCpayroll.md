@@ -78,7 +78,7 @@ Is by returning this after you run the code, as you can see the base salary, reg
 
 Now were ready for some analysis.
 
-## Step 2: Analyze the Data
+## Step 3: Analyze the Data
 
 ### Analysis 1: Average salary by agency
 
@@ -118,7 +118,7 @@ What it shows:
 
 And as you can see the **POLICE DEPARTMENT** is the top agency that has the most overtime which shows a problem in staffing.
 
-## Analysis 4: Regular pay bs overtime pay
+### Analysis 4: Regular pay bs overtime pay
 
 <img width="882" height="334" alt="image" src="https://github.com/user-attachments/assets/97a76eff-7892-4ab8-994b-30d2c47307e5" />
 
@@ -130,7 +130,7 @@ What it does:
 
 This shows that the **BRONX DISTRICT ATTORNEY** receives most of their pay in OT rather than their regular pay.
 
-## Analysis 5: Payroll trends by year
+### Analysis 5: Payroll trends by year
 
 <img width="797" height="246" alt="image" src="https://github.com/user-attachments/assets/f96e5cbf-fd7d-42ce-b894-7bcae74378a6" />
 
