@@ -44,3 +44,16 @@ Project Link: [🔗View Detailed Project Here](https://github.com/giomusyaffa/Py
 
 Dataset Source: [🔗NYC Citywide Payroll Dataset(Kaggle)](https://www.kaggle.com/datasets/new-york-city/nyc-citywide-payroll-data?resource=download)
 
+#### 2. Screen Time, Sleep & Stress Analysis Dataset 😴
+**Description**
+
+This project analyzes the correlation between screen time, sleep, and stress 
+
+Key Analysis Performed
+
+- 
+Project Link: [🔗View Detailed Project Here](https://github.com/giomusyaffa/Python/blob/main/NYCpayroll.md)
+
+Dataset Source: [🔗NYC Citywide Payroll Dataset(Kaggle)](https://www.kaggle.com/datasets/amar5693/screen-time-sleep-and-stress-analysis-dataset?resource=download)
+
+
